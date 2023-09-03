@@ -2,7 +2,6 @@
 # :grin:  박성준의 깃허브 저장소입니다
 
 ### :computer: 기술 스택
-<br>
 
 * **Language**
 * **FrameWork**
