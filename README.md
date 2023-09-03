@@ -1,8 +1,7 @@
 
 # :grin:  박성준의 깃허브 저장소입니다
 
-### 💬 About Me
-
+<!--### 💬 About Me-->
 ### :computer: Stacks
 
 **Language**
