@@ -33,6 +33,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckckckemfdjdhk)](https://solved.ac/ckckckemfdjdhk/)
 
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckckckemfdjdhk@gmail.com&show_icons=true&theme=radical)
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psj109079&show_icons=true&theme=radical)
 
 
