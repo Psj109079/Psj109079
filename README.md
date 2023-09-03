@@ -19,7 +19,11 @@
 
 **DataBase**
 
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+
 **Cloud**
+
+<img alt="Naver Cloud Platform" src ="https://img.shields.io/badge/Naver Cloud Platform-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
 
 **Tools**
 
