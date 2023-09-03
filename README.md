@@ -11,6 +11,6 @@
 * **Cloud**
 * **Tools**
 
-### 📟 **Algorithm**
+### :pager: **Algorithm**
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckckckemfdjdhk)](https://solved.ac/ckckckemfdjdhk/)
