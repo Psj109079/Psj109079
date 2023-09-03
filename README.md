@@ -3,7 +3,7 @@
 
 ### 💬 About Me
 
-### :computer: 기술 스택
+### :computer: Stacks
 
 * **Language**
 * **FrameWork**
